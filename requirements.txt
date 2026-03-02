@@ -1,0 +1,29 @@
+streamlit>=1.33.0
+
+# LangChain 核心 & 社区集成
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-openai>=0.1.0
+langchain-text-splitters>=0.3.0
+
+# 向量库
+faiss-cpu>=1.8.0
+chromadb>=0.5.0
+
+# Embedding / Token 相关
+tiktoken>=0.7.0
+
+# 音频转写 (Whisper)
+openai-whisper>=20231117
+
+# 文档解析 & 导出
+python-docx>=1.1.0
+python-docx>=1.1.0
+
+# 文本处理
+python-docx>=1.1.0
+docx2txt>=0.8
+
+# 通用
+pydantic>=2.7.0
+requests>=2.31.0
