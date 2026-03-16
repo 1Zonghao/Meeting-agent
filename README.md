@@ -1,4 +1,3 @@
-(这是一个文字（语音）转会议记录的智能体练手项目，还有诸多不完善之处，希望大佬们多多指点！)
 # 📝 MeetingAgent Pro
 
 <div align="center">
